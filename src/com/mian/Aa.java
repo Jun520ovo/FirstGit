@@ -5,8 +5,8 @@ public class Aa {
 		int a  = 0000;
 		int b = 1900;
 		int c = 1234;
+
+
 		int d = 6789;
-
-
 	}
 }
