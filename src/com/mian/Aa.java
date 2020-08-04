@@ -5,7 +5,7 @@ public class Aa {
 		
 
 		int d = 6789;
-		int w= 6789;
+		
 		
 	
 		
