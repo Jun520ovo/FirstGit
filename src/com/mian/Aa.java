@@ -6,7 +6,6 @@ public class Aa {
 		int b = 1900;
 		int c = 1234;
 
-
 		int d = 6789;
 	}
 }
