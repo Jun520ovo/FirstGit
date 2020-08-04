@@ -7,5 +7,6 @@ public class Aa {
 		int c = 1234;
 
 		int d = 6789;
+		int f = 456;
 	}
 }
