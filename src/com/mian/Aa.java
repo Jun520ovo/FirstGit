@@ -8,5 +8,6 @@ public class Aa {
 
 		int d = 6789;
 		int e= 6789;
+		int f = 456;
 	}
 }
