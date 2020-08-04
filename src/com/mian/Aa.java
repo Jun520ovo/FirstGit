@@ -10,5 +10,6 @@ public class Aa {
 		int e= 6789;
 		int f = 456;
 		int cc = 324;
+		int aa = 2345809;
 	}
 }
